@@ -8,27 +8,26 @@
 ---
 
 ✅ **FOO works**
-https://localhost:7267/weatherforecast/aa
-https://localhost:7267/weatherforecast/a0
-https://localhost:7267/weatherforecast/a0a
-
-https://localhost:7267/weatherforecast/ab
-https://localhost:7267/weatherforecast/a0b
-https://localhost:7267/weatherforecast/a0b0
+- https://localhost:7267/weatherforecast/aa
+- https://localhost:7267/weatherforecast/a0
+- https://localhost:7267/weatherforecast/a0a
+- https://localhost:7267/weatherforecast/ab
+- https://localhost:7267/weatherforecast/a0b
+- https://localhost:7267/weatherforecast/a0b0
 
 ❌ **FOO doesn't work**
-https://localhost:7267/weatherforecast/a0a0
+- https://localhost:7267/weatherforecast/a0a0
 
 ---
 
 ✅ **BAR works**
-https://localhost:7267/weatherforecast/bb
-https://localhost:7267/weatherforecast/b0
-https://localhost:7267/weatherforecast/b0b
-https://localhost:7267/weatherforecast/b0a0
+- https://localhost:7267/weatherforecast/bb
+- https://localhost:7267/weatherforecast/b0
+- https://localhost:7267/weatherforecast/b0b
+- https://localhost:7267/weatherforecast/b0a0
 
 ❌ **BAR doesn't work**
-https://localhost:7267/weatherforecast/b0b0
+- https://localhost:7267/weatherforecast/b0b0
 
 ---
 
