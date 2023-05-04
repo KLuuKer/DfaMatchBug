@@ -1,5 +1,6 @@
 ﻿## REPO: bug when literal route constraint appears twice in the url
 
+https://github.com/dotnet/aspnetcore/issues/47587
 
 #### Tested with target framework
 - net7.0
